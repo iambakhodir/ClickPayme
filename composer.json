@@ -1,5 +1,5 @@
 {
-  "name": "ClickPayme",
+  "name": "boxo/clickpayme",
   "description": "Click va Payme to'lov sistemasida kartani yaratish va karta orqali to'lov qilish uchun Yii1 frameworki uchun component.",
   "license": "top-secret",
   "authors": [
